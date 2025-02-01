@@ -1,6 +1,132 @@
+h2 {
+  color: red;
+  font-family: Courier New;
+  text-align: left;
+  font-size: 20px;
+}
+
+h3 {
+  color: rgb(0, 204, 255);
+  font-family: Courier New;
+  text-align: left;
+  font-size: 20px;
+}
+
 h4 {
   color: rgb(90, 23, 21);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-align: right;
-  font-size: 35px;
+  font-family: Comic Sans MS;
+  text-align: left;
+  font-size: 20px;
+}
+
+h5 {
+  color: rgb(184, 109, 96);
+  font-family: Comic Sans MS;
+  text-align: left;
+  font-size: 20px;
+}
+
+h6 {
+  color: rgb(26, 246, 253);
+  font-family: Tahoma;
+  text-align: left;
+  font-size: 20px;
+}
+
+h7 {
+  color: rgb(15, 255, 163);
+  font-family: Tahoma;
+  text-align: left;
+  font-size: 20px;
+}
+
+h8 {
+  color: rgb(224, 236, 47);
+  font-family: Impact;
+  text-align: left;
+  font-size: 20px;
+}
+
+h9 {
+  color: rgb(255, 136, 0);
+  font-family: Impact;
+  text-align: left;
+  font-size: 20px;
+}
+
+h10 {
+  color: rgb(255, 0, 157);
+  font-family: Lucida Console;
+  text-align: left;
+  font-size: 20px;
+}
+
+h11 {
+  color: rgb(171, 5, 236);
+  font-family: Lucida Console;
+  text-align: left;
+  font-size: 20px;
+}
+
+h12 {
+  color: rgb(2, 107, 37);
+  font-family: Arial Black;
+  text-align: left;
+  font-size: 20px;
+}
+
+h13 {
+  color: rgb(142, 245, 193);
+  font-family: Arial Black;
+  text-align: left;
+  font-size: 20px;
+}
+
+h14 {
+  color: rgb(68, 6, 35);
+  font-family: cursive;
+  text-align: left;
+  font-size: 20px;
+}
+
+h15 {
+  color: rgb(15, 255, 47);
+  font-family: cursive;
+  text-align: left;
+  font-size: 20px;
+}
+
+h16 {
+  color: rgb(224, 236, 47);
+  font-family: Impact;
+  text-align: left;
+  font-size: 20px;
+}
+
+h17 {
+  color: rgb(255, 136, 0);
+  font-family: Impact;
+  text-align: left;
+  font-size: 20px;
+}
+
+h18 {
+  color: rgb(142, 166, 231);
+  font-family: monospace;
+  text-align: left;
+  font-size: 20px;
+}
+
+h19 {
+  color: rgb(231, 16, 16);
+  font-family: impact;
+  text-align: left;
+  font-size: 20px;
+}
+
+h20 {
+  color: rgb(255, 136, 0);
+  font-family: monospace;
+  text-align: left;
+  font-size: 20px;
 }
